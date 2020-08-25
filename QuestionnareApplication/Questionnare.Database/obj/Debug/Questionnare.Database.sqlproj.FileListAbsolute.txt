@@ -1,0 +1,10 @@
+E:\QuestionnareApplication\Questionnare.Database\bin\Debug\Questionnare.Database.dacpac
+E:\QuestionnareApplication\Questionnare.Database\bin\Debug\Questionnare.Database.dll
+E:\QuestionnareApplication\Questionnare.Database\bin\Debug\Questionnare.Database.pdb
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\Questionnare.Database.sqlprojAssemblyReference.cache
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\Model.xml
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\refactor.xml
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\postdeploy.sql
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\predeploy.sql
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\Questionnare.Database.dll
+E:\QuestionnareApplication\Questionnare.Database\obj\Debug\Questionnare.Database.pdb

@@ -1,0 +1,16 @@
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\Questionnare.Data.deps.json
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\Questionnare.Data.dll
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\Questionnare.Data.pdb
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\Questionnare.Models.dll
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\System.Security.dll
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\Questionnare.Models.pdb
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\System.Configuration.xml
+E:\QuestionnareApplication\Questionnare.Data\bin\Debug\netstandard2.0\System.Security.xml
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.csprojAssemblyReference.cache
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.AssemblyInfoInputs.cache
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.AssemblyInfo.cs
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.csproj.CoreCompileInputs.cache
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.csproj.CopyComplete
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.dll
+E:\QuestionnareApplication\Questionnare.Data\obj\Debug\netstandard2.0\Questionnare.Data.pdb

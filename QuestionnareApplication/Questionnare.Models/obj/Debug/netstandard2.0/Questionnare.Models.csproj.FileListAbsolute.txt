@@ -1,0 +1,9 @@
+E:\QuestionnareApplication\Questionnare.Models\bin\Debug\netstandard2.0\Questionnare.Models.deps.json
+E:\QuestionnareApplication\Questionnare.Models\bin\Debug\netstandard2.0\Questionnare.Models.dll
+E:\QuestionnareApplication\Questionnare.Models\bin\Debug\netstandard2.0\Questionnare.Models.pdb
+E:\QuestionnareApplication\Questionnare.Models\obj\Debug\netstandard2.0\Questionnare.Models.AssemblyInfoInputs.cache
+E:\QuestionnareApplication\Questionnare.Models\obj\Debug\netstandard2.0\Questionnare.Models.AssemblyInfo.cs
+E:\QuestionnareApplication\Questionnare.Models\obj\Debug\netstandard2.0\Questionnare.Models.csproj.CoreCompileInputs.cache
+E:\QuestionnareApplication\Questionnare.Models\obj\Debug\netstandard2.0\Questionnare.Models.dll
+E:\QuestionnareApplication\Questionnare.Models\obj\Debug\netstandard2.0\Questionnare.Models.pdb
+E:\QuestionnareApplication\Questionnare.Models\obj\Debug\netstandard2.0\Questionnare.Models.csprojAssemblyReference.cache
